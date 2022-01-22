@@ -12,7 +12,7 @@ permalink: /
 Let's see if we can build docs that the community can contribute to, hosted on GitHub Pages.
 {: .fs-6 .fw-300 }
 
-[This is a button](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Another button](https://github.com/pmarsceill/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 }
+[This is a button](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Another button](/docs/customization/){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
